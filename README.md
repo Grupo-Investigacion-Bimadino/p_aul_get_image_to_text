@@ -1,5 +1,6 @@
 #Proyecto image to text
-Kevin Andres Nisperuza
-Jose Mercado
-Fermin Manjarez 
+Kevin Nisperuza Sierra
+Jose Mercado Ibarra
+Fermin Manjarres Correa
 Jesus Soto Gaspar 
+Camilo Solano Vergara

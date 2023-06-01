@@ -1,0 +1,8 @@
+{
+    "texto": [
+      { "id": 1, "body": "", "size": "200" }
+    ],
+    "imagenes": [
+      { "id": 1, "extension": "mpeg", "path":  "./imagen1.mpeg" }
+    ]
+}
